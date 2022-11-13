@@ -1,0 +1,14 @@
+body{
+  background-color: #0F0F0F;
+}
+.head{
+  border-radius: 100em 100em 100em 100em;
+  font-family: "comic sans ms";
+  background-color: #ffffff;
+  text-align: center;
+  width: 200px;
+}
+.imug{
+  border-radius: 100em 100em 100em 100em;
+  /*border-radius: 50%;*/
+}
